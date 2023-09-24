@@ -1,0 +1,15 @@
+  hr{
+        border-style:  dotted none none;
+        border-color: blueviolet;
+        border-width: 2px;
+        width: 2%;
+      }
+      body{
+        background-color: lavender;
+      }
+      h1{
+        color: #66bfbf;
+      }
+      h3{
+        color: #66bfbf;
+      }
